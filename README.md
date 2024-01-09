@@ -17,7 +17,7 @@
 <a href="https://www.hackerrank.com/profile/anandmanveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@manveer" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/manveeranand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manveeranand" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manveeranand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manveeranand" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/manveer anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="manveer anand" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@ManveerAnand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="manveer anand" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/hackr_aura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="hackr_aura" height="30" width="40" /></a>
 </p>
 
