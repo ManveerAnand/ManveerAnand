@@ -99,94 +99,108 @@
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=300&lines=🛡️+AREAS+OF+INTEREST" />
 
 <br>
+<div align="center">
 
-<!-- Skill Cards with Progress Bars -->
-<table>
-<tr>
-<td width="50%">
+<!-- Section Title -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=350&lines=🛡️+AREAS+OF+INTEREST" />
 
-### <img src="https://img.shields.io/badge/💻_COMPETITIVE_PROGRAMMING-00FFFF?style=flat-square&labelColor=000000" />
+<br>
 
-```diff
-+ C/C++ ████████████████████░░ 85%
-+ DSA   █████████████████░░░░░ 75%
-+ PS    ███████████████░░░░░░░ 70%
-```
+<!-- Category 1: Competitive Programming -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=350&lines=💻+COMPETITIVE+PROGRAMMING" />
 
-<img src="https://progress-bar.dev/85/?width=300&color=00FFFF&suffix=%" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" />
+</p>
 
-</td>
-<td width="50%">
+<p align="center">
+  <img src="https://img.shields.io/badge/C/C++-85%25-00FFFF?style=for-the-badge&logo=c&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/DSA-75%25-00FFFF?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Problem_Solving-70%25-00FFFF?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" />
+</p>
 
-### <img src="https://img.shields.io/badge/🔒_CTF_&_SECURITY-FF00FF?style=flat-square&labelColor=000000" />
+<br>
 
-```diff
-+ WebSec      ████████████████░░░░░░ 65%
-+ TryHackMe   ███████████████████░░░ 80%
-+ Forensics   ████████████░░░░░░░░░░ 50%
-```
+<!-- Category 2: CTF & Security -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&width=300&lines=🔒+CTF+%26+SECURITY" />
 
-<img src="https://progress-bar.dev/75/?width=300&color=FF00FF&suffix=%" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Security-65%25-FF00FF?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TryHackMe-80%25-FF00FF?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Forensics-50%25-FF00FF?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000000" />
+</p>
 
-### <img src="https://img.shields.io/badge/🎨_3D/GRAPHICS-FF6B6B?style=flat-square&labelColor=000000" />
+<br>
 
-```diff
-+ Blender API ██████████████████░░░░ 75%
-+ Addons      ██████████████░░░░░░░░ 60%
-+ Rendering   ███████████████░░░░░░░ 70%
-```
+<!-- Category 3: 3D / Graphics -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=250&lines=🎨+3D/GRAPHICS" />
 
-<img src="https://progress-bar.dev/70/?width=300&color=FF6B6B&suffix=%" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,blender&theme=dark" />
+</p>
 
-</td>
-<td width="50%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Blender_API-75%25-FF6B6B?style=for-the-badge&logo=blender&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Python_Addons-60%25-FF6B6B?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/3D_Rendering-70%25-FF6B6B?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000" />
+</p>
 
-### <img src="https://img.shields.io/badge/⚙️_SYSTEMS_PROGRAMMING-FFD93D?style=flat-square&labelColor=000000" />
+<br>
 
-```diff
-+ Linux       ████████████████████░░ 85%
-+ C/C++       ███████████████████░░░ 80%
-+ Kernel      ████████████░░░░░░░░░░ 55%
-```
+<!-- Category 4: Systems Programming -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=1000&color=FFD93D&center=true&vCenter=true&width=350&lines=⚙️+SYSTEMS+PROGRAMMING" />
 
-<img src="https://progress-bar.dev/75/?width=300&color=FFD93D&suffix=%" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,c&theme=dark" />
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-85%25-FFD93D?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/C/C++-80%25-FFD93D?style=for-the-badge&logo=c&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Kernel_Dev-55%25-FFD93D?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=000000" />
+</p>
 
-### <img src="https://img.shields.io/badge/🚀_PROJECT_DEVELOPMENT-00FF41?style=flat-square&labelColor=000000" />
+<br>
 
-```diff
-+ Python      ████████████████████░░ 90%
-+ Full Stack  ███████████████░░░░░░░ 70%
-+ DevOps      ██████████████░░░░░░░░ 60%
-```
+<!-- Category 5: Project Development -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=350&lines=🚀+PROJECT+DEVELOPMENT" />
 
-<img src="https://progress-bar.dev/75/?width=300&color=00FF41&suffix=%" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,docker&theme=dark" />
+</p>
 
-</td>
-<td width="50%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-90%25-00FF41?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Full_Stack-70%25-00FF41?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/DevOps-60%25-00FF41?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" />
+</p>
 
-### <img src="https://img.shields.io/badge/🌐_NETWORK_SECURITY-FF4500?style=flat-square&labelColor=000000" />
+<br>
 
-```diff
-+ Pentesting  ███████████████░░░░░░░ 65%
-+ Networking  ██████████████████░░░░ 75%
-+ Crypto      ████████████░░░░░░░░░░ 50%
-```
+<!-- Category 6: Network Security -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=1000&color=FF4500&center=true&vCenter=true&width=350&lines=🌐+NETWORK+SECURITY" />
 
-<img src="https://progress-bar.dev/65/?width=300&color=FF4500&suffix=%" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Penetration_Testing-65%25-FF4500?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Networking-75%25-FF4500?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Cryptography-50%25-FF4500?style=for-the-badge&logo=openssl&logoColor=white&labelColor=000000" />
+</p>
+
+<br>
+
+<!-- Status Line -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=>+Skill+matrix+loaded+successfully;>+All+systems+operational;>+Ready+for+deployment" />
+
+</div>
+
 
 </div>
 
