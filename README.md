@@ -221,9 +221,9 @@
 
 <!-- Dynamic Stats Badges - Never Break -->
 <p align="center">
-  <img src="https://img.shields.io/badge/📦_Public_Repos-20+-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/⭐_Total_Stars-100+-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/🍴_Forks-50+-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/📦_Public_Repos-10+-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/⭐_Total_Stars-15+-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🍴_Forks-2+-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/📅_Joined-2023-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </p>
 
