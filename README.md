@@ -149,13 +149,18 @@ root@kali:~# exploit --target vulnerabilities
 </tr>
 </table>
 
-## 🎵 AUDIO FEED [YOUTUBE MUSIC] 🎵
+## 🎵 AUDIO FEED [LAST.FM INTEGRATION] 🎵
 
+<a href="https://www.last.fm/user/Tecknight01" target="_blank">
+<img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white&labelColor=000000&color=D51007" />
+</a>
 <a href="https://music.youtube.com" target="_blank">
 <img src="https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white&labelColor=000000&color=FF0000" />
 </a>
 
-<i>🎧 Connect YouTube Music to Last.fm for "now playing" integration</i>
+### 🎧 NOW PLAYING // RECENTLY SCROBBLED
+
+[![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=Tecknight01&count=5&width=400&loved=true&bg_color=0D1117)](https://www.last.fm/user/Tecknight01)
 
 ## 💭 NEURAL QUOTE 💭
 
