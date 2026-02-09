@@ -29,3 +29,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manveeranand&show_icons=true&theme=dark&hide_border=true&locale=en" alt="manveeranand" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manveeranand&" alt="manveeranand" /></p>
+
+<h3 align="left">Contribution Graph:</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/github-contribution-grid-snake.svg" />
+</picture>
