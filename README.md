@@ -14,6 +14,24 @@
 
 <div align="center">
 
+<!-- India River Atlas showcase -->
+<h3>🌊 India River Atlas</h3>
+
+<p><strong>Follow the water. Discover the places along its path.</strong></p>
+
+<img src="./assets/india-river-atlas.jpg" alt="India River Atlas: a 3D Varanasi waterfront with ghats, people, boats and guided facts" width="95%" />
+
+<p>An interactive 3D atlas of India's river network, with cinematic Ganga journeys,<br />
+living miniature scenes, animated boats and traffic, and stories along the river.</p>
+
+<p><strong>19 river journeys · 8 Ganga scenes · 46 guide notes</strong><br />
+JavaScript · Three.js · WebGL</p>
+
+<p><a href="https://github.com/ManveerAnand/india-river-atlas">Source repository</a> · Private access · In development</p>
+
+<hr />
+
+
 <a href="https://github.com/ManveerAnand/VoiceLink">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ManveerAnand&repo=VoiceLink&theme=radical&bg_color=0D1117&title_color=00FF41&icon_color=FF00FF&hide_border=true&show_icons=true&description_lines_count=2" width="49%" />
 </a>
