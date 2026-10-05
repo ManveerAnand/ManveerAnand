@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="170" viewBox="0 0 420 170" role="img" aria-labelledby="title desc">
+  <title id="title">India River Atlas</title>
+  <desc id="desc">A 3D journey through India's rivers. JavaScript, Three.js and WebGL. In development; source repository is private.</desc>
+  <rect width="420" height="170" rx="8" fill="#0d1117"/>
+  <g fill="none" stroke="#79e7f1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M25 26c7-5 13 5 20 0m-20 7c7-5 13 5 20 0m-20 7c7-5 13 5 20 0"/>
+  </g>
+  <text x="57" y="38" fill="#79e7f1" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">India River Atlas</text>
+  <text x="25" y="69" fill="#b8bfcc" font-family="Segoe UI,Arial,sans-serif" font-size="13">A 3D journey from headwaters to living ghats.</text>
+  <text x="25" y="90" fill="#b8bfcc" font-family="Segoe UI,Arial,sans-serif" font-size="13">19 river routes · 8 Ganga miniatures</text>
+  <g fill="none" stroke-linecap="round">
+    <path d="M298 19c-13 11-6 22-20 34s11 17-2 28 9 17-3 30 9 15 2 29" transform="translate(88 0)" stroke="#79e7f1" stroke-opacity=".22" stroke-width="3"/>
+    <path d="M349 30l27 23m23 16-35 28m-17 1 27 17" stroke="#79e7f1" stroke-opacity=".13" stroke-width="2"/>
+  </g>
+  <circle cx="30" cy="121" r="5" fill="#f1e05a"/>
+  <text x="42" y="125" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12">JavaScript · Three.js · WebGL</text>
+  <text x="25" y="150" fill="#b591da" font-family="Segoe UI,Arial,sans-serif" font-size="11">IN DEVELOPMENT</text>
+  <text x="141" y="150" fill="#6e7681" font-family="Segoe UI,Arial,sans-serif" font-size="11">· Private source</text>
+</svg>
