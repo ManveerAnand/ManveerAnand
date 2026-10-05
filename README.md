@@ -30,7 +30,7 @@
 
 <!-- India River Atlas: one project among many -->
 <a href="https://github.com/ManveerAnand/india-river-atlas">
-  <img src="./assets/india-river-atlas.svg" alt="India River Atlas — 3D river journeys with living Ganga scenes; JavaScript, Three.js and WebGL. In development, private source." width="49%" />
+  <img src="./assets/india-river-atlas.svg" alt="India River Atlas — 3D river journeys with living Ganga scenes; JavaScript, Three.js and WebGL. In development, public source." width="49%" />
 </a>
 
 <br>
