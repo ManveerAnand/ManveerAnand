@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="112" viewBox="0 0 120 112" role="img">
+<title>Python: 41% of my code, ↗ VoiceLink</title>
+<style>
+.glow{animation:glow 3s ease-in-out 0.00s infinite}
+.logo{animation:bob 3s ease-in-out 0.00s infinite}
+.fill{transform-box:fill-box;transform-origin:left;animation:grow 1.4s ease-out 0.00s both}
+@keyframes glow{0%,100%{stroke-opacity:.55}50%{stroke-opacity:1}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){.glow,.logo,.fill{animation:none}}
+text{font-family:'JetBrains Mono',ui-monospace,Consolas,monospace;text-anchor:middle}
+</style>
+<rect x="1" y="1" width="118" height="110" rx="12" fill="#0f1424"/>
+<rect class="glow" x="1" y="1" width="118" height="110" rx="12" fill="none" stroke="#fcca1b" stroke-width="2"/>
+<g class="logo"><image href="data:image/svg+xml;base64,CiAgPHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiPgogICAgCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwgMCkiPgogICAgICAgICAgPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiMyNDI5MzgiIHJ4PSI2MCIvPjxwYXRoIGZpbGw9InVybCgjcGFpbnQwX2xpbmVhcl8yXzQ3KSIgZD0iTTEyNy4yNzkgMjlDNzYuNTA2NiAyOSA3OS42NzcyIDUxLjAxOCA3OS42NzcyIDUxLjAxOEw3OS43MzM4IDczLjgyODRIMTI4LjE4NVY4MC42NzcySDYwLjQ4OTNDNjAuNDg5MyA4MC42NzcyIDI4IDc2Ljk5MjYgMjggMTI4LjIyMkMyOCAxNzkuNDUyIDU2LjM1NzMgMTc3LjYzNiA1Ni4zNTczIDE3Ny42MzZINzMuMjgxMlYxNTMuODYzQzczLjI4MTIgMTUzLjg2MyA3Mi4zNjkgMTI1LjUwNiAxMDEuMTg2IDEyNS41MDZIMTQ5LjI0QzE0OS4yNCAxMjUuNTA2IDE3Ni4yMzkgMTI1Ljk0MiAxNzYuMjM5IDk5LjQxMjNWNTUuNTQ2MUMxNzYuMjM5IDU1LjU0NjEgMTgwLjMzOCAyOSAxMjcuMjc5IDI5Wk0xMDAuNTYzIDQ0LjMzOUMxMDUuMzg0IDQ0LjMzOSAxMDkuMjggNDguMjM1MSAxMDkuMjggNTMuMDU1NkMxMDkuMjggNTcuODc2MSAxMDUuMzg0IDYxLjc3MjMgMTAwLjU2MyA2MS43NzIzQzk1Ljc0MjYgNjEuNzcyMyA5MS44NDY1IDU3Ljg3NjEgOTEuODQ2NSA1My4wNTU2QzkxLjg0NjUgNDguMjM1MSA5NS43NDI2IDQ0LjMzOSAxMDAuNTYzIDQ0LjMzOVoiLz48cGF0aCBmaWxsPSJ1cmwoI3BhaW50MV9saW5lYXJfMl80NykiIGQ9Ik0xMjguNzIxIDIyNy45NThDMTc5LjQ5MyAyMjcuOTU4IDE3Ni4zMjMgMjA1Ljk0MSAxNzYuMzIzIDIwNS45NDFMMTc2LjI2NiAxODMuMTNIMTI3LjgxNVYxNzYuMjgxSDE5NS41MTFDMTk1LjUxMSAxNzYuMjgxIDIyOCAxNzkuOTY2IDIyOCAxMjguNzM2QzIyOCA3Ny41MDYyIDE5OS42NDMgNzkuMzIzIDE5OS42NDMgNzkuMzIzSDE4Mi43MTlWMTAzLjA5NkMxODIuNzE5IDEwMy4wOTYgMTgzLjYzMSAxMzEuNDUzIDE1NC44MTQgMTMxLjQ1M0gxMDYuNzZDMTA2Ljc2IDEzMS40NTMgNzkuNzYwNyAxMzEuMDE2IDc5Ljc2MDcgMTU3LjU0NlYyMDEuNDEyQzc5Ljc2MDcgMjAxLjQxMiA3NS42NjE1IDIyNy45NTggMTI4LjcyMSAyMjcuOTU4Wk0xNTUuNDM3IDIxMi42MTlDMTUwLjYxNiAyMTIuNjE5IDE0Ni43MiAyMDguNzIzIDE0Ni43MiAyMDMuOTAzQzE0Ni43MiAxOTkuMDgyIDE1MC42MTYgMTk1LjE4NiAxNTUuNDM3IDE5NS4xODZDMTYwLjI1NyAxOTUuMTg2IDE2NC4xNTQgMTk5LjA4MiAxNjQuMTU0IDIwMy45MDNDMTY0LjE1NCAyMDguNzIzIDE2MC4yNTcgMjEyLjYxOSAxNTUuNDM3IDIxMi42MTlaIi8+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJwYWludDBfbGluZWFyXzJfNDciIHgxPSI0Ny4yMiIgeDI9IjE0Ni4zMzMiIHkxPSI0Ni44OTYiIHkyPSIxNDUuMDIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjMzg3RUI4Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMzY2OTk0Ii8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9InBhaW50MV9saW5lYXJfMl80NyIgeDE9IjEwOC4wNTYiIHgyPSIyMTQuNDkyIiB5MT0iMTA5LjkwNSIgeTI9IjIxMC41MjIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjRkZFMDUyIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjRkZDMzMxIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PC9zdmc+CiAgICAgICAgPC9nPgogICAgICAgIAogIDwvc3ZnPgogIA==" x="40" y="10" width="40" height="40" preserveAspectRatio="xMidYMid meet"/></g>
+<text x="60" y="66" font-size="12" font-weight="700" fill="#edf4ff">Python</text>
+<text x="60" y="80" font-size="9" fill="#fcca1b">41% of my code</text>
+<rect x="12" y="86" width="96" height="5" rx="2.5" fill="#1a2238"/><rect class="fill" x="12" y="86" width="39.3" height="5" rx="2.5" fill="#fcca1b"/>
+<text x="60" y="104" font-size="8.5" fill="#93a6c4">↗ VoiceLink</text>
+</svg>

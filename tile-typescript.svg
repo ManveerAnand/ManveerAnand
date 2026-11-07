@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="112" viewBox="0 0 120 112" role="img">
+<title>TypeScript: 14% of my code, ↗ BOLBOT</title>
+<style>
+.glow{animation:glow 3s ease-in-out 0.35s infinite}
+.logo{animation:bob 3s ease-in-out 0.35s infinite}
+.fill{transform-box:fill-box;transform-origin:left;animation:grow 1.4s ease-out 0.35s both}
+@keyframes glow{0%,100%{stroke-opacity:.55}50%{stroke-opacity:1}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){.glow,.logo,.fill{animation:none}}
+text{font-family:'JetBrains Mono',ui-monospace,Consolas,monospace;text-anchor:middle}
+</style>
+<rect x="1" y="1" width="118" height="110" rx="12" fill="#0f1424"/>
+<rect class="glow" x="1" y="1" width="118" height="110" rx="12" fill="none" stroke="#779dff" stroke-width="2"/>
+<g class="logo"><image href="data:image/svg+xml;base64,CiAgPHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiPgogICAgCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwgMCkiPgogICAgICAgICAgPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiMwMDdBQ0MiIHJ4PSI2MCIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik01Ni42MTEyIDEyOC44NDlMNTYuNTI5OSAxMzkuMzMzSDczLjE5MDJIODkuODUwNUw4OS44NTA1IDE4Ni42NzNWMjM0LjAxMkgxMDEuNjM1SDExMy40MTlWMTg2LjY3M0wxMTMuNDE5IDEzOS4zMzNIMTMwLjA3OUgxNDYuNzM5VjEyOS4wNTJDMTQ2LjczOSAxMjMuMzYzIDE0Ni42MTggMTE4LjYwOSAxNDYuNDU1IDExOC40ODdDMTQ2LjMzMyAxMTguMzI1IDEyNi4wNTYgMTE4LjI0MyAxMDEuNDcyIDExOC4yODRMNTYuNzMzMSAxMTguNDA2TDU2LjYxMTIgMTI4Ljg0OVoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjA2LjU2NyAxMTguMTA4QzIxMy4wNjggMTE5LjczNCAyMTguMDI2IDEyMi42MTkgMjIyLjU3NyAxMjcuMzMyQzIyNC45MzQgMTI5Ljg1MiAyMjguNDI4IDEzNC40NDQgMjI4LjcxMyAxMzUuNTQxQzIyOC43OTQgMTM1Ljg2NiAyMTcuNjYgMTQzLjM0MyAyMTAuOTE1IDE0Ny41MjhDMjEwLjY3MSAxNDcuNjkxIDIwOS42OTUgMTQ2LjYzNCAyMDguNTk4IDE0NS4wMDlDMjA1LjMwNyAxNDAuMjE0IDIwMS44NTMgMTM4LjE0MSAxOTYuNTcgMTM3Ljc3NkMxODguODA5IDEzNy4yNDcgMTgzLjgxMSAxNDEuMzExIDE4My44NTIgMTQ4LjA5N0MxODMuODUyIDE1MC4wODggMTg0LjEzNiAxNTEuMjY2IDE4NC45NDkgMTUyLjg5MkMxODYuNjU1IDE1Ni40MjcgMTg5LjgyNSAxNTguNTQgMTk5Ljc4MSAxNjIuODQ3QzIxOC4xMDcgMTcwLjczMSAyMjUuOTQ5IDE3NS45MzIgMjMwLjgyNiAxODMuMzI3QzIzNi4yNzEgMTkxLjU3NiAyMzcuNDkgMjA0Ljc0MiAyMzMuNzkyIDIxNC41MzVDMjI5LjcyOSAyMjUuMTgxIDIxOS42NTEgMjMyLjQxNCAyMDUuNDY5IDIzNC44MTJDMjAxLjA4MSAyMzUuNTg0IDE5MC42NzggMjM1LjQ2MiAxODUuOTY1IDIzNC42MDlDMTc1LjY4NCAyMzIuNzggMTY1LjkzMiAyMjcuNzAxIDE1OS45MTggMjIxLjAzN0MxNTcuNTYxIDIxOC40MzYgMTUyLjk2OSAyMTEuNjUgMTUzLjI1NCAyMTEuMTYyQzE1My4zNzUgMjExIDE1NC40MzIgMjEwLjM1IDE1NS42MSAyMDkuNjU5QzE1Ni43NDggMjA5LjAwOSAxNjEuMDU2IDIwNi41MyAxNjUuMTE5IDIwNC4xNzNMMTcyLjQ3NCAxOTkuOTA2TDE3NC4wMTggMjAyLjE4MkMxNzYuMTcyIDIwNS40NzMgMTgwLjg4NSAyMDkuOTg0IDE4My43MyAyMTEuNDg3QzE5MS44OTcgMjE1Ljc5NSAyMDMuMTEzIDIxNS4xODUgMjA4LjYzOSAyMTAuMjI4QzIxMC45OTYgMjA4LjA3NCAyMTEuOTcxIDIwNS44MzkgMjExLjk3MSAyMDIuNTQ4QzIxMS45NzEgMTk5LjU4MSAyMTEuNjA1IDE5OC4yODEgMjEwLjA2MSAxOTYuMDQ2QzIwOC4wNyAxOTMuMjAyIDIwNC4wMDcgMTkwLjgwNCAxOTIuNDY2IDE4NS44MDZDMTc5LjI2IDE4MC4xMTcgMTczLjU3MSAxNzYuNTgyIDE2OC4zNyAxNzAuOTc0QzE2NS4zNjMgMTY3LjcyNCAxNjIuNTE4IDE2Mi41MjIgMTYxLjM0IDE1OC4xNzRDMTYwLjM2NSAxNTQuNTU4IDE2MC4xMjEgMTQ1LjQ5NiAxNjAuODkzIDE0MS44MzlDMTYzLjYxNSAxMjkuMDggMTczLjI0NiAxMjAuMTgxIDE4Ny4xNDMgMTE3LjUzOUMxOTEuNjU0IDExNi42ODYgMjAyLjEzNyAxMTcuMDExIDIwNi41NjcgMTE4LjEwOFoiLz48L3N2Zz4KICAgICAgICA8L2c+CiAgICAgICAgCiAgPC9zdmc+CiAg" x="40" y="10" width="40" height="40" preserveAspectRatio="xMidYMid meet"/></g>
+<text x="60" y="66" font-size="12" font-weight="700" fill="#edf4ff">TypeScript</text>
+<text x="60" y="80" font-size="9" fill="#779dff">14% of my code</text>
+<rect x="12" y="86" width="96" height="5" rx="2.5" fill="#1a2238"/><rect class="fill" x="12" y="86" width="13.7" height="5" rx="2.5" fill="#779dff"/>
+<text x="60" y="104" font-size="8.5" fill="#93a6c4">↗ BOLBOT</text>
+</svg>
