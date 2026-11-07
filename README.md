@@ -1,42 +1,32 @@
-﻿<!-- Manveer Anand — GitHub Profile README -->
+﻿<!-- Manveer Anand · GitHub profile README
+     Palette: navy #080c18 base with indigo #779dff, teal #5eead4, green #8ed345,
+     amber #fcca1b, coral #ff7a90, violet #c084fc. Anything added later should use these. -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=700&height=70&lines=Manveer+Anand" alt="Manveer Anand" />
+<img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/hero.svg" width="100%" alt="Manveer Anand, animated ASCII portrait and name with live GitHub counts" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=2000&color=FF00FF&background=0D111700&center=true&vCenter=true&width=600&height=35&lines=4th+Year+BTech+CSE+%7C+I+like+building+things" alt="Tagline" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1400&color=5EEAD4&center=true&vCenter=true&width=760&height=50&lines=I+build+with+AI%2C+and+build+AI+into+things;Ideas+%E2%86%92+working+software%2C+AI+in+the+loop;On+the+road+to+full-stack+AI+engineering" alt="I build with AI, and build AI into things. Ideas to working software, AI in the loop. On the road to full-stack AI engineering." />
+
+<img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/galaxy.svg" width="100%" alt="My public repositories drawn as a galaxy, each star sized by its stars" />
 
 </div>
 
 ---
 
-## Projects
+## Brightest stars
 
 <div align="center">
 
-<a href="https://github.com/ManveerAnand/VoiceLink">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ManveerAnand&repo=VoiceLink&theme=radical&bg_color=0D1117&title_color=00FF41&icon_color=FF00FF&hide_border=true&show_icons=true&description_lines_count=2" width="49%" />
-</a>
-<a href="https://github.com/ManveerAnand/StreakForge">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ManveerAnand&repo=StreakForge&theme=radical&bg_color=0D1117&title_color=FF00FF&icon_color=00FF41&hide_border=true&show_icons=true&description_lines_count=2" width="49%" />
-</a>
+<img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/projects.svg" width="100%" alt="Project cards for VoiceLink, BOLBOT, India River Atlas and articulate3D" />
 
-<a href="https://github.com/ManveerAnand/multiserver">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ManveerAnand&repo=multiserver&theme=radical&bg_color=0D1117&title_color=FFD93D&icon_color=FF6B6B&hide_border=true&show_icons=true&description_lines_count=2" width="49%" />
-</a>
-<a href="https://github.com/ManveerAnand/articulate3D">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ManveerAnand&repo=articulate3D&theme=radical&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&hide_border=true&show_icons=true&description_lines_count=2" width="49%" />
-</a>
-
-<!-- India River Atlas: one project among many -->
-<a href="https://github.com/ManveerAnand/india-river-atlas">
-  <img src="./assets/india-river-atlas.svg" alt="India River Atlas — 3D river journeys with living Ganga scenes; JavaScript, Three.js and WebGL. In development, public source." width="49%" />
-</a>
-
-<br>
+<a href="https://github.com/ManveerAnand/VoiceLink"><img src="https://img.shields.io/badge/VoiceLink-779dff?style=for-the-badge&logo=windows&logoColor=080c18" alt="VoiceLink" /></a>
+<a href="https://github.com/ManveerAnand/BOLBOT"><img src="https://img.shields.io/badge/BOLBOT-5eead4?style=for-the-badge&logo=discord&logoColor=080c18" alt="BOLBOT" /></a>
+<a href="https://github.com/ManveerAnand/india-river-atlas"><img src="https://img.shields.io/badge/River_Atlas-8ed345?style=for-the-badge&logo=threedotjs&logoColor=080c18" alt="India River Atlas" /></a>
+<a href="https://github.com/ManveerAnand/articulate3D"><img src="https://img.shields.io/badge/articulate3D-fcca1b?style=for-the-badge&logo=blender&logoColor=080c18" alt="articulate3D" /></a>
 
 <a href="https://github.com/ManveerAnand?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Repositories_→-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/View_All_Repositories_→-c084fc?style=for-the-badge&logo=github&logoColor=080c18" alt="View all repositories" />
 </a>
 
 </div>
@@ -45,33 +35,33 @@
 
 <details>
 <summary>
-  <img src="https://img.shields.io/badge/▶_About_Me_%2F%2F_Terminal-00FF41?style=for-the-badge&labelColor=0D1117&color=00FF41" />
+  <img src="https://img.shields.io/badge/▶_About_Me_%2F%2F_Terminal-5eead4?style=for-the-badge&labelColor=080c18" alt="About me" />
 </summary>
 
 <br>
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1&pause=1000&color=50FA7B&width=600&height=20&lines=┌──────────────────────────────────────────────────────┐" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1&pause=1000&color=C084FC&width=600&height=20&lines=┌──────────────────────────────────────────────────────┐" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1500&pause=1000&color=8BE9FD&width=600&height=25&lines=manveer@dev:~%24+whoami" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1500&pause=1000&color=5EEAD4&width=600&height=25&lines=manveer@dev:~%24+whoami" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=2500&color=F8F8F2&width=600&height=25&lines=>+Manveer+Anand+%7C+BTech+CSE+4th+Year+%7C+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=2500&color=EDF4FF&width=600&height=25&lines=>+Manveer+Anand+%7C+BTech+CSE+4th+Year+%7C+Builder" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1500&pause=4500&color=8BE9FD&width=600&height=25&lines=manveer@dev:~%24+ls+skills/" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1500&pause=4500&color=5EEAD4&width=600&height=25&lines=manveer@dev:~%24+cat+goal.md" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=6000&color=50FA7B&width=600&height=25&lines=>+Python%2C+C%2C+C%2B%2B%2C+Go%2C+Bash%2C+LaTeX" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=6000&color=FCCA1B&width=600&height=25&lines=>+Full-stack+AI+engineer%3A+models+inside+real+apps" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1500&pause=8000&color=8BE9FD&width=600&height=25&lines=manveer@dev:~%24+cat+focus.md" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1500&pause=8000&color=5EEAD4&width=600&height=25&lines=manveer@dev:~%24+ls+skills/" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=9500&color=FFB86C&width=600&height=25&lines=>+AI%2FML+Tools%2C+Systems+Programming%2C+Blender+Scripting" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=9500&color=8ED345&width=600&height=25&lines=>+Python%2C+TypeScript%2C+C%2C+C%2B%2B%2C+Go%2C+Bash" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1500&pause=11500&color=8BE9FD&width=600&height=25&lines=manveer@dev:~%24+which+tools" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1500&pause=11500&color=5EEAD4&width=600&height=25&lines=manveer@dev:~%24+which+tools" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=13000&color=F1FA8C&width=600&height=25&lines=>+Linux%2C+VS+Code%2C+Git%2C+Blender%2C+GitHub+Actions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=13000&color=FF7A90&width=600&height=25&lines=>+Linux%2C+VS+Code%2C+Git%2C+Blender%2C+GitHub+Actions" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1200&pause=15000&color=8BE9FD&width=600&height=25&lines=manveer@dev:~%24+_█" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1200&pause=15000&color=5EEAD4&width=600&height=25&lines=manveer@dev:~%24+_█" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1&pause=16000&color=50FA7B&width=600&height=20&lines=└──────────────────────────────────────────────────────┘" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1&pause=16000&color=C084FC&width=600&height=20&lines=└──────────────────────────────────────────────────────┘" />
 
 </div>
 </details>
@@ -82,23 +72,17 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LANGUAGES-00FF41?style=for-the-badge&labelColor=0D1117" />
+<a href="https://github.com/ManveerAnand/VoiceLink" title="Python: VoiceLink"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-python.svg" width="108" alt="Python, used in VoiceLink" /></a>
+<a href="https://github.com/ManveerAnand/BOLBOT" title="TypeScript: BOLBOT"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-typescript.svg" width="108" alt="TypeScript, used in BOLBOT" /></a>
+<a href="https://github.com/ManveerAnand/multiserver" title="C: multiserver"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-c.svg" width="108" alt="C, used in multiserver" /></a>
+<a href="https://github.com/ManveerAnand/VoiceLink/tree/main/sapi_bridge" title="C++: VoiceLink's SAPI bridge"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-cpp.svg" width="108" alt="C++, used in VoiceLink's SAPI bridge" /></a>
+<a href="https://github.com/ManveerAnand/QUICK-reverse_proxy" title="Go: QUICK-reverse_proxy"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-go.svg" width="108" alt="Go, used in QUICK-reverse_proxy" /></a>
+<a href="https://github.com/ManveerAnand/multiserver" title="Bash: multiserver"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-bash.svg" width="108" alt="Bash, used in multiserver" /></a>
+<a href="https://github.com/ManveerAnand/BOLBOT" title="Node.js: BOLBOT"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-node-js.svg" width="108" alt="Node.js, used in BOLBOT" /></a>
+<a href="https://github.com/ManveerAnand/?tab=repositories" title="Git: all repositories"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-git.svg" width="108" alt="Git, used in all repositories" /></a>
+<a href="https://github.com/ManveerAnand/" title="GitHub: my GitHub profile"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-github.svg" width="108" alt="GitHub, used in my GitHub profile" /></a>
 
-<br><br>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,bash,latex&theme=dark&perline=6" />
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/TOOLS_&_PLATFORMS-FF00FF?style=for-the-badge&labelColor=0D1117" />
-
-<br><br>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,blender,githubactions&theme=dark&perline=5" />
-</a>
+<sub>Click a tile to see where I used it.</sub>
 
 </div>
 
@@ -108,41 +92,23 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManveerAnand&theme=radical&bg_color=0D1117&color=00FF41&line=FF00FF&point=FFFFFF&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
+<img src="https://www.gitskins.com/api/readme-reference/activity-graph?username=manveeranand&theme=github-dark" width="100%" alt="Contributions over the last 91 days" />
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManveerAnand&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManveerAnand&theme=radical&hide_border=true&utcOffset=5" width="48%" />
-</p>
+<img src="https://www.gitskins.com/api/readme-reference/contribution-calendar?username=manveeranand&theme=github-dark" width="100%" alt="Contribution calendar for the last year" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManveerAnand&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF00FF&currStreakLabel=00FF41&sideLabels=FF00FF&currStreakNum=00FF41&sideNums=FF00FF&dates=FFFFFF&stroke=000000" width="95%" />
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManveerAnand&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManveerAnand&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://www.gitskins.com/api/readme-reference/character-calendar?username=manveeranand&theme=github-dark&motion=subtle" width="100%" alt="Animated contribution activity" />
 
 </div>
 
 ---
 
-## Music
+## Vibe with me
 
 <div align="center">
 
-<a href="https://www.last.fm/user/Tecknight01" target="_blank">
-  <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white&labelColor=0D1117" />
-</a>
+<a href="https://www.last.fm/user/Tecknight01"><img src="./assets/vibe.svg" width="500" alt="Vibe with me: a spinning record and a bouncing equalizer" /></a>
 
-<br><br>
-
-[![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=Tecknight01&count=5&width=500&loved=true&bg_color=0D1117&text_color=FFFFFF&accent_color=00FF41)](https://www.last.fm/user/Tecknight01)
+[![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=Tecknight01&count=5&width=500&loved=true&bg_color=080c18&text_color=edf4ff&accent_color=ff7a90)](https://www.last.fm/user/Tecknight01)
 
 </div>
 
@@ -152,18 +118,10 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/manveeranand" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://www.leetcode.com/manveeranand" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://codeforces.com/profile/manveeranand" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://www.codechef.com/users/manveeranand" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" />
-</a>
+<a href="https://www.linkedin.com/in/manveeranand" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-779dff?style=for-the-badge&logo=linkedin&logoColor=080c18" alt="LinkedIn" /></a>
+<a href="https://www.leetcode.com/manveeranand" target="_blank"><img src="https://img.shields.io/badge/LeetCode-fcca1b?style=for-the-badge&logo=leetcode&logoColor=080c18" alt="LeetCode" /></a>
+<a href="https://codeforces.com/profile/manveeranand" target="_blank"><img src="https://img.shields.io/badge/Codeforces-ff7a90?style=for-the-badge&logo=codeforces&logoColor=080c18" alt="Codeforces" /></a>
+<a href="https://www.codechef.com/users/manveeranand" target="_blank"><img src="https://img.shields.io/badge/CodeChef-c084fc?style=for-the-badge&logo=codechef&logoColor=080c18" alt="CodeChef" /></a>
 
 </div>
 
@@ -171,6 +129,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:FF00FF,100:00FF41&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:779dff,33:c084fc,66:ff7a90,100:fcca1b&height=120&section=footer" width="100%"/>
 
 </div>
