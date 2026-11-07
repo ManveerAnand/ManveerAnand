@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="48" viewBox="0 0 800 48" role="img">
+<title>GitHub Stats</title>
+<defs><linearGradient id="g" x1="0" x2="1">
+<stop class="s1" offset="0" stop-color="#fcca1b"/><stop class="s2" offset="1" stop-color="#ff7a90"/>
+</linearGradient></defs>
+<style>
+.s1{animation:c1 4s ease-in-out infinite alternate}
+.s2{animation:c2 4s ease-in-out infinite alternate}
+@keyframes c1{to{stop-color:#ff7a90}}
+@keyframes c2{to{stop-color:#fcca1b}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ping 2.4s ease-out infinite}
+@keyframes ping{from{transform:scale(.6);opacity:.9}to{transform:scale(2.4);opacity:0}}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.s1,.s2,.ring,.cur{animation:none}}
+.mono{font-family:'JetBrains Mono',ui-monospace,Consolas,monospace}
+</style>
+<circle class="ring" cx="10" cy="26" r="6" fill="none" stroke="#fcca1b" stroke-width="2"/>
+<circle cx="10" cy="26" r="5" fill="#fcca1b"/>
+<text class="mono" x="26" y="31" font-size="13" fill="#fcca1b">03</text>
+<text x="54" y="35" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="url(#g)">GitHub Stats</text>
+<text class="mono" x="790" y="32" font-size="12" text-anchor="end" fill="#93a6c4">// live from GitHub<tspan class="cur" fill="#ff7a90">_</tspan></text>
+</svg>

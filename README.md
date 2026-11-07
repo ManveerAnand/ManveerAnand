@@ -14,7 +14,7 @@
 
 ---
 
-## Brightest stars
+<h2><img src="./assets/headings/projects.svg" width="100%" alt="Brightest stars" /></h2>
 
 <div align="center">
 
@@ -68,19 +68,19 @@
 
 ---
 
-## Tech Stack
+<h2><img src="./assets/headings/stack.svg" width="100%" alt="Tech Stack" /></h2>
 
 <div align="center">
 
-<a href="https://github.com/ManveerAnand/VoiceLink" title="Python: VoiceLink"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-python.svg" width="108" alt="Python, used in VoiceLink" /></a>
-<a href="https://github.com/ManveerAnand/BOLBOT" title="TypeScript: BOLBOT"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-typescript.svg" width="108" alt="TypeScript, used in BOLBOT" /></a>
-<a href="https://github.com/ManveerAnand/multiserver" title="C: multiserver"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-c.svg" width="108" alt="C, used in multiserver" /></a>
-<a href="https://github.com/ManveerAnand/VoiceLink/tree/main/sapi_bridge" title="C++: VoiceLink's SAPI bridge"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-cpp.svg" width="108" alt="C++, used in VoiceLink's SAPI bridge" /></a>
-<a href="https://github.com/ManveerAnand/QUICK-reverse_proxy" title="Go: QUICK-reverse_proxy"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-go.svg" width="108" alt="Go, used in QUICK-reverse_proxy" /></a>
-<a href="https://github.com/ManveerAnand/multiserver" title="Bash: multiserver"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-bash.svg" width="108" alt="Bash, used in multiserver" /></a>
-<a href="https://github.com/ManveerAnand/BOLBOT" title="Node.js: BOLBOT"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-node-js.svg" width="108" alt="Node.js, used in BOLBOT" /></a>
-<a href="https://github.com/ManveerAnand/?tab=repositories" title="Git: all repositories"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-git.svg" width="108" alt="Git, used in all repositories" /></a>
-<a href="https://github.com/ManveerAnand/" title="GitHub: my GitHub profile"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-github.svg" width="108" alt="GitHub, used in my GitHub profile" /></a>
+<a href="https://github.com/ManveerAnand/VoiceLink" title="Python: VoiceLink"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-python.svg" width="120" alt="Python, used in VoiceLink" /></a>
+<a href="https://github.com/ManveerAnand/BOLBOT" title="TypeScript: BOLBOT"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-typescript.svg" width="120" alt="TypeScript, used in BOLBOT" /></a>
+<a href="https://github.com/ManveerAnand/multiserver" title="C: multiserver"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-c.svg" width="120" alt="C, used in multiserver" /></a>
+<a href="https://github.com/ManveerAnand/VoiceLink/tree/main/sapi_bridge" title="C++: VoiceLink's SAPI bridge"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-cpp.svg" width="120" alt="C++, used in VoiceLink's SAPI bridge" /></a>
+<a href="https://github.com/ManveerAnand/QUICK-reverse_proxy" title="Go: QUICK-reverse_proxy"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-go.svg" width="120" alt="Go, used in QUICK-reverse_proxy" /></a>
+<a href="https://github.com/ManveerAnand/multiserver" title="Bash: multiserver"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-bash.svg" width="120" alt="Bash, used in multiserver" /></a>
+<a href="https://github.com/ManveerAnand/BOLBOT" title="Node.js: BOLBOT"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-node-js.svg" width="120" alt="Node.js, used in BOLBOT" /></a>
+<a href="https://github.com/ManveerAnand/?tab=repositories" title="Git: all repositories"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-git.svg" width="120" alt="Git, used in all repositories" /></a>
+<a href="https://github.com/ManveerAnand/" title="GitHub: my GitHub profile"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-github.svg" width="120" alt="GitHub, used in my GitHub profile" /></a>
 
 <sub>Click a tile to see where I used it.</sub>
 
@@ -88,7 +88,7 @@
 
 ---
 
-## GitHub Stats
+<h2><img src="./assets/headings/stats.svg" width="100%" alt="GitHub Stats" /></h2>
 
 <div align="center">
 
@@ -102,7 +102,7 @@
 
 ---
 
-## Vibe with me
+<h2><img src="./assets/headings/vibe.svg" width="100%" alt="Vibe with me" /></h2>
 
 <div align="center">
 
@@ -114,7 +114,7 @@
 
 ---
 
-## Connect
+<h2><img src="./assets/headings/connect.svg" width="100%" alt="Connect" /></h2>
 
 <div align="center">
 
