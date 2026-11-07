@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="72" viewBox="0 0 260 72" role="img">
+  <title>Press M to enter the world</title>
+  <style>
+    .cap { animation: press 2.4s ease-in-out infinite; }
+    .glow { animation: glow 2.4s ease-in-out infinite; }
+    @keyframes press { 0%, 70%, 100% { transform: translateY(0); } 80% { transform: translateY(3px); } }
+    @keyframes glow { 0%, 100% { stroke-opacity: .45; } 50% { stroke-opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .cap, .glow { animation: none; } }
+    text { font-family: 'JetBrains Mono', ui-monospace, Consolas, monospace; }
+  </style>
+  <rect x="1" y="1" width="258" height="70" rx="12" fill="#080c18"/>
+  <rect class="glow" x="1" y="1" width="258" height="70" rx="12" fill="none" stroke="#ff7a90" stroke-width="2"/>
+  <rect x="14" y="17" width="44" height="44" rx="8" fill="#3a1d2a"/>
+  <g class="cap">
+    <rect x="14" y="12" width="44" height="44" rx="8" fill="#1e2a44" stroke="#ff7a90" stroke-width="1.5"/>
+    <text x="36" y="42" font-size="22" font-weight="700" fill="#ff7a90" text-anchor="middle">M</text>
+  </g>
+  <text x="72" y="33" font-size="13" font-weight="700" fill="#edf4ff">enter the world</text>
+  <text x="72" y="51" font-size="10.5" fill="#93a6c4">play chess against me</text>
+</svg>

@@ -21,8 +21,11 @@ jobs:
 
       - name: Fetch and clean images
         run: bash .github/scripts/skins.sh dist
+
+      - name: Build project cards
+        run: python3 .github/scripts/cards.py dist
         env:
-          GH_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build tech stack tiles
         run: python3 .github/scripts/tiles.py dist
