@@ -18,12 +18,10 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/projects.svg" width="100%" alt="Project cards for VoiceLink, BOLBOT, India River Atlas and articulate3D" />
-
-<a href="https://github.com/ManveerAnand/VoiceLink"><img src="https://img.shields.io/badge/VoiceLink-779dff?style=for-the-badge&logo=windows&logoColor=080c18" alt="VoiceLink" /></a>
-<a href="https://github.com/ManveerAnand/BOLBOT"><img src="https://img.shields.io/badge/BOLBOT-5eead4?style=for-the-badge&logo=discord&logoColor=080c18" alt="BOLBOT" /></a>
-<a href="https://github.com/ManveerAnand/india-river-atlas"><img src="https://img.shields.io/badge/River_Atlas-8ed345?style=for-the-badge&logo=threedotjs&logoColor=080c18" alt="India River Atlas" /></a>
-<a href="https://github.com/ManveerAnand/articulate3D"><img src="https://img.shields.io/badge/articulate3D-fcca1b?style=for-the-badge&logo=blender&logoColor=080c18" alt="articulate3D" /></a>
+<a href="https://github.com/ManveerAnand/VoiceLink" title="Open VoiceLink. The ring shows its language mix."><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/card-voicelink.svg" width="49%" alt="VoiceLink" /></a>
+<a href="https://github.com/ManveerAnand/BOLBOT" title="Open BOLBOT. The ring shows its language mix."><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/card-bolbot.svg" width="49%" alt="BOLBOT" /></a>
+<a href="https://github.com/ManveerAnand/india-river-atlas" title="Open India River Atlas. The ring shows its language mix."><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/card-river-atlas.svg" width="49%" alt="India River Atlas" /></a>
+<a href="https://github.com/ManveerAnand/articulate3D" title="Open articulate3D. The ring shows its language mix."><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/card-articulate3d.svg" width="49%" alt="articulate3D" /></a>
 
 <a href="https://github.com/ManveerAnand?tab=repositories">
   <img src="https://img.shields.io/badge/View_All_Repositories_→-c084fc?style=for-the-badge&logo=github&logoColor=080c18" alt="View all repositories" />
@@ -81,8 +79,6 @@
 <a href="https://github.com/ManveerAnand/BOLBOT" title="Node.js: BOLBOT"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-node-js.svg" width="120" alt="Node.js, used in BOLBOT" /></a>
 <a href="https://github.com/ManveerAnand/?tab=repositories" title="Git: all repositories"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-git.svg" width="120" alt="Git, used in all repositories" /></a>
 <a href="https://github.com/ManveerAnand/" title="GitHub: my GitHub profile"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/tile-github.svg" width="120" alt="GitHub, used in my GitHub profile" /></a>
-
-<sub>Click a tile to see where I used it.</sub>
 
 </div>
 

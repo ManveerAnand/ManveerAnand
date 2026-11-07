@@ -18,7 +18,7 @@ from html import escape
 USER = "ManveerAnand"
 TOKEN = os.environ.get("GITHUB_TOKEN")
 
-# (file, logo, caption, color, language whose share fills the bar, or a tool stat key)
+# (file, logo, where it links / what the count is, color, language whose share fills the bar, or a tool stat key)
 TILES = [
     ("python", "Python", "VoiceLink", "fcca1b", "Python"),
     ("typescript", "TypeScript", "BOLBOT", "779dff", "TypeScript"),
@@ -26,9 +26,9 @@ TILES = [
     ("cpp", "C++", "VoiceLink", "c084fc", "C++"),
     ("go", "Go", "reverse proxy", "8ed345", "Go"),
     ("bash", "Bash", "multiserver", "ff7a90", "Shell"),
-    ("node-js", "Node.js", "BOLBOT runtime", "5eead4", None),
-    ("git", "Git", "commits this year", "ff7a90", "commits"),
-    ("github", "GitHub", "public repos", "c084fc", "repos"),
+    ("node-js", "Node.js", "BOLBOT", "5eead4", None),
+    ("git", "Git", "this year", "ff7a90", "commits"),
+    ("github", "GitHub", "my profile", "c084fc", "repos"),
 ]
 
 
@@ -72,15 +72,15 @@ def logo(name):
     return m.group(1)
 
 
-def tile(i, logo_href, label, caption, color, value, text):
+def tile(i, logo_href, label, color, value, text, where):
     delay = f"{i * 0.35:.2f}s"
     bar = ""
     if value is not None:
         w = max(4.0, 96 * value)
-        bar = (f'<rect x="12" y="98" width="96" height="5" rx="2.5" fill="#1a2238"/>'
-               f'<rect class="fill" x="12" y="98" width="{w:.1f}" height="5" rx="2.5" fill="#{color}"/>')
+        bar = (f'<rect x="12" y="86" width="96" height="5" rx="2.5" fill="#1a2238"/>'
+               f'<rect class="fill" x="12" y="86" width="{w:.1f}" height="5" rx="2.5" fill="#{color}"/>')
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="120" height="112" viewBox="0 0 120 112" role="img">
-<title>{escape(label)}: {escape(caption)}</title>
+<title>{escape(label)}: {escape(text)}, {escape(where)}</title>
 <style>
 .glow{{animation:glow 3s ease-in-out {delay} infinite}}
 .logo{{animation:bob 3s ease-in-out {delay} infinite}}
@@ -95,8 +95,9 @@ text{{font-family:'JetBrains Mono',ui-monospace,Consolas,monospace;text-anchor:m
 <rect class="glow" x="1" y="1" width="118" height="110" rx="12" fill="none" stroke="#{color}" stroke-width="2"/>
 <g class="logo"><image href="{logo_href}" x="40" y="10" width="40" height="40" preserveAspectRatio="xMidYMid meet"/></g>
 <text x="60" y="66" font-size="12" font-weight="700" fill="#edf4ff">{escape(label)}</text>
-<text x="60" y="81" font-size="9" fill="#{color}">{escape(text)}</text>
+<text x="60" y="80" font-size="9" fill="#{color}">{escape(text)}</text>
 {bar}
+<text x="60" y="104" font-size="8.5" fill="#93a6c4">{escape(where)}</text>
 </svg>'''
 
 
@@ -105,19 +106,20 @@ def main():
     os.makedirs(out, exist_ok=True)
     share, counts = stats()
     for i, (file, name, caption, color, key) in enumerate(TILES):
-        if key in ("commits", "repos") and key not in counts:
-            value, text = None, caption
-        elif key in counts:
-            value, text = None, f"{counts[key]} {caption}"
+        value, where = None, f"↗ {caption}"
+        if key == "commits":
+            text, where = f"{counts.get(key, '')} commits".strip(), caption
+        elif key == "repos":
+            text = f"{counts[key]} public repos"
         elif key:
             value = share.get(key, 0)
-            text = f"{caption} · {value * 100:.0f}%"
+            text = f"{value * 100:.0f}% of my code"
         else:
-            value, text = None, caption
-        svg = tile(i, logo(name), name, caption, color, value, text)
+            text = "runtime"
+        svg = tile(i, logo(name), name, color, value, text, where)
         with open(os.path.join(out, f"tile-{file}.svg"), "w", encoding="utf-8") as f:
             f.write(svg)
-        print(f"tile-{file}.svg  {text}")
+        print(f"tile-{file}.svg  {text} | {where}".encode("ascii", "replace").decode())
 
 
 if __name__ == "__main__":
