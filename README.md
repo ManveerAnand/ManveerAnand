@@ -62,6 +62,14 @@
 <details>
 <summary><img src="./assets/key-m.svg" width="260" alt="Press M to enter the world: play chess against Manveer" /></summary>
 
+<p align="center"><b>Game 1 · Missile Game</b></p>
+
+<p align="center"><a href="https://www.missile-game.com/"><img src="https://img.shields.io/badge/▶_Play_Missile_Game-ff7a90?style=for-the-badge&labelColor=080c18" alt="Play Missile Game" /></a></p>
+
+<p align="center">Press <kbd>M</kbd> in the game, set <b>Team</b> to <code>40549fMA</code>, type your name, hit Save.<br>Then fly, and try to beat my score on the team <b>Scoreboard</b>.</p>
+
+<p align="center"><b>Game 2 · Chess</b> <sub>(you're white, I'm black)</sub></p>
+
 <!-- CHESS:START -->
 <p align="center"><img src="./chess/board.svg" width="360" alt="Current chess board" /></p>
 
