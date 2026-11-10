@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="112" viewBox="0 0 120 112" role="img">
+<title>C++: 5% of my code, ↗ VoiceLink</title>
+<style>
+.glow{animation:glow 3s ease-in-out 1.05s infinite}
+.logo{animation:bob 3s ease-in-out 1.05s infinite}
+.fill{transform-box:fill-box;transform-origin:left;animation:grow 1.4s ease-out 1.05s both}
+@keyframes glow{0%,100%{stroke-opacity:.55}50%{stroke-opacity:1}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){.glow,.logo,.fill{animation:none}}
+text{font-family:'JetBrains Mono',ui-monospace,Consolas,monospace;text-anchor:middle}
+</style>
+<rect x="1" y="1" width="118" height="110" rx="12" fill="#0f1424"/>
+<rect class="glow" x="1" y="1" width="118" height="110" rx="12" fill="none" stroke="#c084fc" stroke-width="2"/>
+<g class="logo"><image href="data:image/svg+xml;base64,CiAgPHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiPgogICAgCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwgMCkiPgogICAgICAgICAgPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiMwMDU5OUMiIHJ4PSI2MCIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMTAuNzU5IDIxMC41MTdDNjUuMTI1NCAyMTAuNTE3IDI4IDE3My4zOTIgMjggMTI3Ljc1OUMyOCA4Mi4xMjU0IDY1LjEyNTQgNDUgMTEwLjc1OSA0NUMxNDAuMjA0IDQ1IDE2Ny42NjcgNjAuODQ1OCAxODIuNDI3IDg2LjM1MzNMMTQ2LjYxMSAxMDcuMDc5QzEzOS4yMjQgOTQuMzExMSAxMjUuNDg1IDg2LjM3OTMgMTEwLjc1OSA4Ni4zNzkzQzg3Ljk0MTYgODYuMzc5MyA2OS4zNzkzIDEwNC45NDIgNjkuMzc5MyAxMjcuNzU5QzY5LjM3OTMgMTUwLjU3NSA4Ny45NDE2IDE2OS4xMzggMTEwLjc1OSAxNjkuMTM4QzEyNS40ODYgMTY5LjEzOCAxMzkuMjI1IDE2MS4yMDYgMTQ2LjYxMyAxNDguNDM2TDE4Mi40MjkgMTY5LjE2MUMxNjcuNjY5IDE5NC42NzEgMTQwLjIwNiAyMTAuNTE3IDExMC43NTkgMjEwLjUxN1oiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTkzLjUxNyAxMjMuMTYxSDE4NC4zMjFWMTEzLjk2NUgxNzUuMTI3VjEyMy4xNjFIMTY1LjkzMVYxMzIuMzU2SDE3NS4xMjdWMTQxLjU1MkgxODQuMzIxVjEzMi4zNTZIMTkzLjUxN1YxMjMuMTYxWiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yMjggMTIzLjE2MUgyMTguODA0VjExMy45NjVIMjA5LjYxVjEyMy4xNjFIMjAwLjQxNFYxMzIuMzU2SDIwOS42MVYxNDEuNTUySDIxOC44MDRWMTMyLjM1NkgyMjhWMTIzLjE2MVoiLz48L3N2Zz4KICAgICAgICA8L2c+CiAgICAgICAgCiAgPC9zdmc+CiAg" x="40" y="10" width="40" height="40" preserveAspectRatio="xMidYMid meet"/></g>
+<text x="60" y="66" font-size="12" font-weight="700" fill="#edf4ff">C++</text>
+<text x="60" y="80" font-size="9" fill="#c084fc">5% of my code</text>
+<rect x="12" y="86" width="96" height="5" rx="2.5" fill="#1a2238"/><rect class="fill" x="12" y="86" width="4.8" height="5" rx="2.5" fill="#c084fc"/>
+<text x="60" y="104" font-size="8.5" fill="#93a6c4">↗ VoiceLink</text>
+</svg>
