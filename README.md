@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/hero.svg" width="100%" alt="Manveer Anand, animated ASCII portrait and name with live GitHub counts" />
+<a href="https://manveer.live/" title="Visit my portfolio"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/hero.svg" width="100%" alt="Manveer Anand, animated ASCII portrait and name with live GitHub counts" /></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1400&color=5EEAD4&center=true&vCenter=true&width=760&height=50&lines=I+build+with+AI%2C+and+build+AI+into+things;Ideas+%E2%86%92+working+software%2C+AI+in+the+loop;On+the+road+to+full-stack+AI+engineering" alt="I build with AI, and build AI into things. Ideas to working software, AI in the loop. On the road to full-stack AI engineering." />
+<a href="https://manveer.live/" title="Visit my portfolio"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1400&color=5EEAD4&center=true&vCenter=true&width=760&height=50&lines=I+build+with+AI%2C+and+build+AI+into+things;Ideas+%E2%86%92+working+software%2C+AI+in+the+loop;On+the+road+to+full-stack+AI+engineering" alt="I build with AI, and build AI into things. Ideas to working software, AI in the loop. On the road to full-stack AI engineering." /></a>
 
-<img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/galaxy.svg" width="100%" alt="My public repositories drawn as a galaxy, each star sized by its stars" />
+<a href="https://manveer.live/" title="Visit my portfolio"><img src="https://raw.githubusercontent.com/ManveerAnand/ManveerAnand/output/galaxy.svg" width="100%" alt="My public repositories drawn as a galaxy, each star sized by its stars" /></a>
 
 </div>
 
@@ -133,6 +133,7 @@
 
 <div align="center">
 
+<a href="https://manveer.live/"><img src="https://img.shields.io/badge/Portfolio_·_manveer.live-5eead4?style=for-the-badge&logo=googlechrome&logoColor=080c18" alt="Portfolio: manveer.live" /></a>
 <a href="https://www.linkedin.com/in/manveeranand" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-779dff?style=for-the-badge&logo=linkedin&logoColor=080c18" alt="LinkedIn" /></a>
 <a href="https://www.leetcode.com/manveeranand" target="_blank"><img src="https://img.shields.io/badge/LeetCode-fcca1b?style=for-the-badge&logo=leetcode&logoColor=080c18" alt="LeetCode" /></a>
 <a href="https://codeforces.com/profile/manveeranand" target="_blank"><img src="https://img.shields.io/badge/Codeforces-ff7a90?style=for-the-badge&logo=codeforces&logoColor=080c18" alt="Codeforces" /></a>
